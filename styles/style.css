@@ -1,0 +1,16 @@
+body {
+    font-family: "Sixtyfour", sans-serif;
+    font-size: 15px;
+}
+
+.container{
+    background-color: brown;
+    color: rgb(221, 217, 225) ;
+    width: 80%;
+    box-sizing: border-box;
+    margin:100px;
+    padding: 60;
+    border: 10px solid black;
+ 
+
+}
