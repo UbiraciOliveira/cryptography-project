@@ -4,13 +4,17 @@ body {
 }
 
 .container{
-    background-color: rgb(151, 171, 103);
-    color: rgb(221, 217, 225) ;
+
+    background-color: lightblue;
+    color: rgb(117, 13, 221) ;
     width: 80%;
     box-sizing: border-box;
     margin:100px;
     padding: 60;
     border: 10px solid black;
- 
-
 }
+  
+    strong {
+
+        color:rgba(39, 61, 13, 0.63)
+    }
